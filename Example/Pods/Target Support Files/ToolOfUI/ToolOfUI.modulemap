@@ -1,0 +1,6 @@
+framework module ToolOfUI {
+  umbrella header "ToolOfUI-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - ToolOfUI (0.1.0)
+
+DEPENDENCIES:
+  - ToolOfUI (from `../`)
+
+EXTERNAL SOURCES:
+  ToolOfUI:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ToolOfUI: c320dae1cca70f4f872815e595ecd9043b83ebaa
+
+PODFILE CHECKSUM: 8d5a485a038143ad243ac53c52cfa977ddd29889
+
+COCOAPODS: 1.8.4
